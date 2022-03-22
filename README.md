@@ -4,8 +4,9 @@
 - 📫 instagram : instagram.com/mufidussani
       
       Nice to see u all! 😁  
-
-![MufidusSani's GitHub stats](https://github-readme-stats.vercel.app/api?username=mufidussani&show_icons=true&theme=tokyonight)  
+----
+![MufidusSani's GitHub stats](https://github-readme-stats.vercel.app/api?username=mufidussani&show_icons=true&theme=tokyonight)           
+   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufidussani)](https://github.com/anuraghazra/github-readme-stats)  
 <!---
 mufidussani/mufidussani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
