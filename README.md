@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mufidussani
 - 👀 Playing Game Enthusiasts
-- 🌱 Currently learning C, C#, JavaScript, Python, HTML, and CSS 
-- 📫 instagram : instagram.com/mufidussani
+- 🌱 Currently learning CI3, React, Next, Python, Express, Flask, and many more~
+- my work: https://mufidussani.github.io/portfolio
       
       Nice to see u all! 😁  
 ----
