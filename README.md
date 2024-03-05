@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mufidussani
-- 👀 Playing Game Enthusiasts
-- 🌱 Currently learning CI3, React, Next, Python, Express, Flask, and many more~
+- 👀 Front-end yet Fullstack-ing Enthusiast!
+- 🌱 Currently learning CI3, CI4, React, Next, NodeJS, Express Python, Express, Flask, Blockchain DApp, and many more~
 - my work: https://mufidussani.github.io/portfolio
       
       Nice to see u all! 😁  
